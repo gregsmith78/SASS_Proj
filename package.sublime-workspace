@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"n",
+				"numBox"
+			],
+			[
+				"num",
+				"numTxt"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"te",
+				"testClick"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"e",
+				"easeOut"
+			],
+			[
+				"_ho",
+				"_hoverActions"
+			],
+			[
+				"backgrou",
+				"backgroundColor"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"str",
+				"str3"
+			],
+			[
+				"nu",
+				"number1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gregsmith/Sites/PracticeLayout/layoutCSS_v3.scss",
+		"/Users/gregsmith/Sites/PracticeLayout/package.json",
+		"/Users/gregsmith/Sites/2c.tv/js/app/2c.tv/controllers/Work.js",
+		"/Users/gregsmith/Sites/PracticeLayout/layoutCSS_v2.css",
+		"/Users/gregsmith/Sites/PracticeLayout/index.html",
+		"/Users/gregsmith/Sites/PracticeLayout/layoutCSS.css",
+		"/Users/gregsmith/Sites/layOutProj/layoutCSS.css",
+		"/Users/gregsmith/Sites/PracticeLayout/layOutProj/index.html",
+		"/Users/gregsmith/Sites/PracticeLayout/layOutProj/layoutCSS.css",
+		"/Users/gregsmith/Sites/fl1p3l3v3n/js/app.js",
+		"/Users/gregsmith/Sites/fl1p3l3v3n/js/site/Controllers/Container.js",
+		"/Users/gregsmith/Sites/2c.tv/js/app/2c.tv/controllers/TopBar.js",
+		"/Users/gregsmith/Sites/2c.tv/js/app/2c.tv/views/AboutClients.js",
+		"/Users/gregsmith/Sites/2c.tv/js/app/2c.tv/models/AboutContentModel.js",
+		"/Users/gregsmith/Sites/fl1p3l3v3n/js/site/Controllers/Test.js",
+		"/Users/gregsmith/Sites/fl1p3l3v3n/js/site/Controllers/Home.js",
+		"/Users/gregsmith/Sites/fl1p3l3v3n/Gruntfile.js",
+		"/Users/gregsmith/Sites/fl1p3l3v3n/bower_components/fl1p3l3v3n/lib/bit/extensions/Ext_Tween.js",
+		"/Users/gregsmith/Sites/2c.tv/js/main.js",
+		"/Users/gregsmith/Sites/fl1p3l3v3n/index.php",
+		"/Users/gregsmith/Sites/fl1p3l3v3n/js/app.min.js",
+		"/Users/gregsmith/Sites/fl1p3l3v3n/index.html",
+		"/Users/gregsmith/Sites/2c.tv/js/app/lib/Flip/FlipObject.js",
+		"/Users/gregsmith/Downloads/300x250/SC_300x250_v1.js",
+		"/Users/gregsmith/Sites/2c.tv/index.php",
+		"/Users/gregsmith/Downloads/728x90 Tomorrow/SC_728x90_tomorrow_v1.js",
+		"/Users/gregsmith/Downloads/728x90 Tomorrow/SC_728x90_tomorrow_v1.html",
+		"/Users/gregsmith/Sites/2c.tv/css/main.css",
+		"/Users/gregsmith/Sites/2c.tv/js/app/2c.tv/controllers/Home.js",
+		"/Users/gregsmith/Sites/gregsmith/index.php",
+		"/Users/gregsmith/Sites/server/provision.sh",
+		"/Users/gregsmith/Desktop/script.js",
+		"/Users/gregsmith/Desktop/document.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\",",
+			">\n",
+			"<li></li>",
+			">\n",
+			");\n",
+			"_elem.tween",
+			"_onImgLoaded",
+			"element",
+			"navselect",
+			"Nav_Select",
+			"detect",
+			"_appfiles",
+			"interact(",
+			"translate",
+			"min",
+			"over",
+			"_self.over()",
+			"easeOutBounce",
+			"interact",
+			"_over",
+			"tween",
+			"init",
+			"main.css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true
+}
